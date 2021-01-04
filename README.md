@@ -9,3 +9,4 @@ Do not edit LangID of an existent language file. This is done by us using [Micro
 # Translating the website
 
 Create a new .yml file (named using [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) based on en.yml.
+#1
